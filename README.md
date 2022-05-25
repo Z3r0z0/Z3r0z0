@@ -52,5 +52,8 @@
 <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Z3r0z0&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
 
 ## Links
-![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) => ProfileLink
+<!---->
+<a href="https://www.hackerrank.com/tobi_as_1">
+  <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+</a>
 <!-- ![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white) -->

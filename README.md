@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Z3r0z0&count_private=true&show_icons=true&theme=Gradient"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Z3r0z0&count_private=true&hide=text,smalltalk&langs_count=5&show_icons=true&theme=Gradient"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Z3r0z0&count_private=true&show_icons=true&theme=gradient"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Z3r0z0&count_private=true&hide=text,smalltalk&langs_count=5&show_icons=true&theme=gradient"/>
 
 <!--
 **Z3r0z0/Z3r0z0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
